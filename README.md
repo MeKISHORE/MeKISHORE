@@ -1,16 +1,13 @@
-- 👋 Hi, I’m @MeKISHORE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 MeKISHORE/MeKISHORE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm LAB KISHORE HEMBRAM</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-
+- 👀 I’m interested in learning new tech
+- 🌱 I’m currently learning spring boot
+<!-- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mekishore&label=Profile%20views&color=0e75b6&style=flat" alt="mekishore" /> </p>
 
 
