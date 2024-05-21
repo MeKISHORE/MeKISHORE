@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm LAB KISHORE HEMBRAM</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <h3 align="center">👀 I’m interested in learning new tech</h3>
-<h3 align="center">🌱 I’m currently learning spring boot</h3>
+<h3 align="center">🌱 I’m currently working as a software engineer at Oracle Cerner.</h3>
 
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
